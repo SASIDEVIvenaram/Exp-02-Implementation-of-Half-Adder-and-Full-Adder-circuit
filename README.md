@@ -85,7 +85,6 @@ endmodule
 ![](/timefull.png)
 
 ## Truthtable:
-![](/truth.png)
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
